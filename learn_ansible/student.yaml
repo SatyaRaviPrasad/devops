@@ -1,0 +1,16 @@
+- first_name: "satya"
+  last_name: "ravi prasad"
+  surr_name: "Guthula"
+#map or Object declaration
+
+  contact_details:
+    phone:
+      alternative_number: "8762345678"
+      permanent_number: "888888888888"
+    email: "raviprasad.tc@gmail.com"
+  #array or list
+  skills:
+  - Linux
+  - AWS
+  - Docker
+  - Kubernetes

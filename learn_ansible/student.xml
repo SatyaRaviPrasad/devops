@@ -1,0 +1,9 @@
+<Student>
+    <firstName>Satya</firstName>
+    <lastName>Ravi Prasad</lastName>
+    <surrName>Guthula</surrName>
+    <contactDetails>
+        <Phone>9099090900</Phone>
+        <email>raviprasad.tc@gmail.com</email>
+    </contactDetails>
+</Student>

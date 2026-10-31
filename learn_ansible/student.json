@@ -1,0 +1,12 @@
+{
+    "firstName": "Satya",
+    "lastName": "Ravi Prasad",
+    "surrName": "Guthula",
+    "contactDetails": {
+        "phone": {
+            "alternativeNumber": 758658567,
+            "perminentNumber": 9999999999
+        },
+        "email": "raviprasad.tc"
+    }
+}
